@@ -1,0 +1,11 @@
+.inputs {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+
+.submit {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
